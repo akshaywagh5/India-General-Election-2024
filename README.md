@@ -136,7 +136,7 @@ You can download the `.pbix` file and:
 ## 🗨️ Feedback / Contact
 
 If you found this project helpful or have feedback:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/akshaywagh5)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-wagh-ba08b3119/)
 - Visit my [Portfolio Website](https://akshay-wagh-da.netlify.app)
 - ⭐ Star this repository if you like it!
 
