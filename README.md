@@ -1,4 +1,4 @@
-# 🇮🇳 India General Election Results – 2024
+# India General Election Results – 2024
 
 📊 **End-to-End Power BI Dashboard Project**  
 🧑‍💻 Created by **Akshay Wagh**  
@@ -99,14 +99,23 @@ India_Election_2024/
 
 ## 📷 Preview (Screenshots)
 
-The `/Screenshots/` folder includes visual previews of each page:
-- Landing Page
-- Overview Analysis
-- State Demographics
-- Constituency Deep Dive
-- Full Grid View
+### 🧭 Landing Page
+![Landing Page](Screenshots/Landing%20Page.png)
 
-*(You can embed preview images in this section if needed)*
+### 📌 Overview Analysis
+![Overview Analysis](Screenshots/Overview%20Analysis.png)
+
+### 🗺️ State Demographic Analysis
+![State Demographic Analysis](Screenshots/State%20Demograophic%20Analysis.png)
+
+### 📍 Political Landscape by State
+![Political Landscape](Screenshots/Political%20Landscape%20By%20State.png)
+
+### 🧑‍🤝‍🧑 Constituency Analysis
+![Constituency Analysis](Screenshots/Constituency%20Analysis.png)
+
+### 📋 Details Grid
+![Details Grid](Screenshots/Details%20Grid.png)
 
 ---
 
